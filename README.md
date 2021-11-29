@@ -5,7 +5,7 @@
 Modular status bar for dwm written in c.
 
 
-# Luke's build
+# Muelthebest's build
 
 I have dwmblocks read my preexisting scripts
 [here in my dotfiles repo](https://github.com/muelthebest/dotfiles/tree/main/.local/bin/statusbar).
